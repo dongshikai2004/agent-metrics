@@ -1,0 +1,8 @@
+requests
+pandas
+matplotlib
+seaborn
+python-dotenv
+tqdm
+adjustText
+plotly
